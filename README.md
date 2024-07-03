@@ -1,1 +1,1 @@
-Here is a program using thermister to control a motor (in this case is DC motor) with a circuit divider, using atmega32 as microcontroller and relay as switch, whenever the temperature goes up above the value we programmed before, it'll turns on the relay.
+Here is a program that uses a thermistor to control a DC motor with a voltage divider circuit, using an ATmega32 microcontroller and a relay as a switch. Whenever the temperature exceeds a predefined value, the relay turns on the motor.
